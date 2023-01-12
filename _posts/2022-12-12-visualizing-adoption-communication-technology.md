@@ -11,8 +11,8 @@ As a consumer of information in the 21st century, I often feel as though new tec
 In formulating my project idea and topic, I considered the following questions:
 
 - How do recent technologies compare to older technologies, in both their rates of adoption and time usage?
-- Are Americans’ perceptions, that our current technological landscape is ever-changing, unique to our time, or are they consistent with communication technologies of the past?
-- Can these perceptions be explained by the rate of adoption, or rather the increase in time usage compared to other technologies?
+- Is the perception _that our current technological landscape is ever-changing_ unique to our time or is it consistent with communication technologies of the past?
+- Can this and other perceptions be explained by the rate of adoption, or rather the increase in time usage compared to other technologies?
 
 Visualizations were key to the success of this project. Chart type, interaction, color, and labels were all specially chosen to engage and inform the reader. Time was a universal theme in this project and is likewise present in all visualizations. 
 
