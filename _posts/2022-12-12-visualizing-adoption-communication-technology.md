@@ -26,11 +26,6 @@ Datasets were accessed and cleaned using R. Visualizations were created using [D
 
 ![](/images/vis-choropleth-multi.png)
 
-![](/images/vis-multiline-use.png)
-
 ![](/images/vis-choropleth.png)
 
-
-
-
-
+![](/images/vis-multiline-use.png)
