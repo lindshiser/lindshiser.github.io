@@ -4,7 +4,7 @@ title: Understanding differences in behavioral responses to wildfire smoke expos
 categories: Writing
 ---
 
-I have a new article published in the Chicago Policy Review discussing research about differences hin group responses to wildfire smoke exposure. The research has implications for how policymakers can improve risk mitigation measures to consider the realities of disadvantaged groups.
+I have a new article published in the Chicago Policy Review discussing new research exploring differences in group responses to wildfire smoke exposure. This research has implications for how policymakers can improve risk mitigation measures to consider the realities of disadvantaged groups.
 
 The research, [published in _Nature Human Behavior_](https://www.nature.com/articles/s41562-022-01396-6), illustrates how climate policy can benefit from behavioral insights. The researchers found that behavioral responses to wildfire smoke were largely income-dependent, and argued that current policy fails to consider the resistance that certain groups face when adopting public guidance. 
 
