@@ -20,7 +20,7 @@ To understand how the American population adopts and uses technologies, I used v
 
 Datasets were accessed and cleaned using R. Visualizations were created using [D3.js](https://d3js.org/). Page layout and style were built using HTML and CSS. All data, libraries, and code are stored in this project's [GitHub folder](https://github.com/lindshiser/data-visualization/tree/main/final_project).
 
-[Read _America's Communication Identity, Visualized_.](https://chicagopolicyreview.org/2022/12/27/human-behavior-in-the-presence-of-wildfire-smoke-new-methods-reveal-differences-in-group-responses/) Static screenshots of select visualizations are below.
+[Scroll through the final project here.](https://chicagopolicyreview.org/2022/12/27/human-behavior-in-the-presence-of-wildfire-smoke-new-methods-reveal-differences-in-group-responses/) Static screenshots of select visualizations are below.
 
 ![](/images/vis-multiline.png)
 
