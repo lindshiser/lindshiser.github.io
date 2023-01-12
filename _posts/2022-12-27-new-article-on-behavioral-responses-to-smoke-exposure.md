@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding differences in behavioral responses to wildfire smoke exposure
+title: Understanding differences in behavioral responses to wildfire smoke
 categories: Writing
 ---
 
