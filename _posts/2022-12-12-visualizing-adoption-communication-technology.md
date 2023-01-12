@@ -4,7 +4,7 @@ title: Visualizing rates of technology adoption in America, past and present
 categories: [Data Visualization, Data Analysis, Coursework]
 ---
 
-In [_America's Communication Identity, Visualized_](https://lindshiser.github.io/data-visualization/final_project/visualization.html), I visualize technology adoption and use in American households as a means of understanding the ubiquitous nature of today's communication technologies. This project was completed as part of the final course deliverable for CAPP 30239: Data Visualization.
+In [_America's Communication Identity, Visualized_](https://lindshiser.github.io/data-visualization/final_project/visualization.html), I visualize technology adoption and use in American households in an attempt to understand the ubiquitous nature of today's communication technologies. This project was completed as part of the final course deliverable for CAPP 30239: Data Visualization.
 
 As a consumer of information in the 21st century, I often feel as though new technologies are quickly and consistently being adopted into American households while other technologies become obsolete. Recent technologies like computers, cell phones, and tablets, for example, have been embraced by today's “information economy” and demand increasingly more of our time and attention.
 
