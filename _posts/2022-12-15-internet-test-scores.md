@@ -4,13 +4,15 @@ title: Household internet, COVID-19, and impacts on student learning
 categories: [Coursework, Data Analysis, Data Visualization, Statistical Modeling, Text Processing]
 ---
 
-For my final project in [Data and Programming for Public Policy II](https://harris.uchicago.edu/academics/programs-degrees/courses/data-and-programming-public-policy-ii-r), I study whether household internet access impacts American school-age students’ test scores. I analyze the change in average test scores between 2019 and 2022, a measure which has been [reported](https://www.nytimes.com/2022/10/24/us/math-reading-scores-pandemic.html) as an indicator of negative outcomes resulting from the COVID-19 pandemic. Given the uptake in remote learning methods during the pandemic, I posit that states or cities with greater shares of households with internet access would also have less extreme declines in test scores. 
+For my final project in [Data and Programming for Public Policy II](https://harris.uchicago.edu/academics/programs-degrees/courses/data-and-programming-public-policy-ii-r), I study whether household internet access impacts American school-age students’ test scores. Given the uptake in remote learning methods during the pandemic, I posit that states or cities with greater shares of households with internet access would also have less extreme declines in test scores from 2019 to 2022.
 
 A summary of each project component is below:
 
 ## Data Wrangling
 
-I collected data on household internet access for 50 states and five major school districts from the [American Community Survey (5-Year Estimates)](https://www.census.gov/programs-surveys/acs), retrieved using a Census API key. Data on average test scores for the same states and districts was collected from the [National Assessment of Educational Progress (NAEP)](https://nces.ed.gov/nationsreportcard/), known as the "nation's report card." Using an API, I retrieve data for my variables of interest, namely cohort (4th and 8th grade, subject (mathematics and reading), and year (2019 and 2022).
+I analyze the change in average test scores between 2019 and 2022, a measure which has been [reported](https://www.nytimes.com/2022/10/24/us/math-reading-scores-pandemic.html) as an indicator of negative outcomes resulting from the COVID-19 pandemic. Data on average test scores for 50 states and five major school districts  was collected from the [National Assessment of Educational Progress (NAEP)](https://nces.ed.gov/nationsreportcard/), known as the "nation's report card." Using an API, I retrieve data for my variables of interest, namely cohort (4th and 8th grade, subject (mathematics and reading), and year (2019 and 2022).
+
+I collected data on household internet access for the same states and districts from the [American Community Survey (5-Year Estimates)](https://www.census.gov/programs-surveys/acs), retrieved using a Census API key.
 
 ## Visualizations
 
@@ -43,4 +45,4 @@ Finally, I find that a one-percentage point increase in the share of households 
 
 ![](/images/dppp-static2.png)
 
-The project was completed in R. [View project files on the GitHub page](https://github.com/lindshiser/data-programming-pubpol).
+The project was completed in R. [View project files on GitHub](https://github.com/lindshiser/data-programming-pubpol).
