@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Household Internet, COVID-19, and Impacts on Student Learning
+title: Household internet, COVID-19, and impacts on student learning
 categories: [Coursework, Data Analysis, Data Visualization, Statistical Modeling, Text Processing]
 ---
 
-For my final project in [Data and Programming for Public Policy II](https://harris.uchicago.edu/academics/programs-degrees/courses/data-and-programming-public-policy-ii-r), I study whether household internet access impacts American school-age students’ test scores. Specifically, I analyze the change in average test scores between 2019 and 2022, a measure which has been [reported](https://www.nytimes.com/2022/10/24/us/math-reading-scores-pandemic.html) as an indicator of negative outcomes resulting from the COVID-19 pandemic. 
+For my final project in [Data and Programming for Public Policy II](https://harris.uchicago.edu/academics/programs-degrees/courses/data-and-programming-public-policy-ii-r), I study whether household internet access impacts American school-age students’ test scores. I analyze the change in average test scores between 2019 and 2022, a measure which has been [reported](https://www.nytimes.com/2022/10/24/us/math-reading-scores-pandemic.html) as an indicator of negative outcomes resulting from the COVID-19 pandemic. Given the uptake in remote learning methods during the pandemic, I posit that states or cities with greater shares of households with internet access would also have less extreme declines in test scores. 
 
-Given the uptake in remote learning methods during the pandemic, I posit that states or cities with greater shares of households with internet access would also have less extreme declines in test scores. A summary of each project component is below:
+A summary of each project component is below:
 
 ## Data Wrangling
 
